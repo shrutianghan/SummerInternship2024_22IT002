@@ -51,3 +51,82 @@ welcome to my GitHub repository for the summer internship 2024! This showcases t
 
 2) Created a template using HTML and CSS.
 
+## Week 2
+
+### Day 1: Introduction to JavaScript
+
+1) Introduction to JavaScript and its purpose in web development.
+
+### Day 2: JavaScript Basics
+
+1) Understanding JavaScript identifiers.
+
+2) Explored various display possibilities.
+
+### Day 3: JavaScript Variables and Functions
+
+1) Learned about JavaScript variables.
+
+2) Explored functions to simplify tasks.
+
+### Day 4: Arrays and Methods
+
+1) Learned about arrays, math functions, and methods in JavaScript.
+
+### Day 5: JavaScript Task
+
+1) Completed a small task based on JavaScript to solidify understanding.
+
+## Week 3
+
+### Day 1: Introduction to React.js
+
+1) Basic introduction to React.js and its functionality.
+
+2) Set up a React.js development environment.
+
+3) Familiarized with the project's file structure, components, and state management.
+
+### Day 2: React Components
+
+1) Learned about React components, including functional components.
+
+2) Understood the use of props for data flow between components.
+
+3) Practiced creating reusable UI components.
+
+4) Learned to apply CSS in React projects.
+
+### Day 3: React Hooks
+
+1) Gained hands-on experience with React hooks for state management.
+
+2) Learned to use useState, useMemo, useRef, and useContext hooks.
+
+3) Understood the map method.
+
+### Day 4: Advanced React Components
+
+1) Explored advanced component patterns.
+
+2) Understood React Slider, React Icons, Bootstrap, Ant Design, and Material-UI.
+
+### Day 5: React Router
+
+1) Explored React Router.
+
+2) Completed tasks based on React.js to understand concepts better.
+
+## Week 4
+
+### Day 1: Introduction to PHP
+
+1) Basic introduction to PHP.
+
+2) Learned to create a database and perform CRUD (Create, Read, Update, Delete) operations.
+
+### Days 2-5: Project Development
+
+1) Developed a project integrating HTML, CSS, JavaScript, React.js, and PHP.
+
+
