@@ -5,13 +5,18 @@
 welcome to my GitHub repository for the summer internship 2024! This showcases the work done during the internship.
 
 
-## Week 1
+##  Week 1 
 
 ### Outline of week-1:
 
 - HTML
   
 - CSS
+
+![image](https://github.com/user-attachments/assets/dfe5ac0c-63c7-41f0-9f56-bf39e4023e73)
+
+
+## Day-by-Day Progress
 
 ### Day 1: Introduction
 
@@ -66,6 +71,8 @@ welcome to my GitHub repository for the summer internship 2024! This showcases t
 
 - JavaScript
 
+## Day-by-Day Progress
+
 ### Day 1: Introduction to JavaScript
 
 1) Introduction to JavaScript and its purpose in web development.
@@ -96,6 +103,8 @@ welcome to my GitHub repository for the summer internship 2024! This showcases t
 ### Outline of week-3:
 
 - React
+
+## Day-by-Day Progress
 
 ### Day 1: Introduction to React.js
 
@@ -141,6 +150,8 @@ welcome to my GitHub repository for the summer internship 2024! This showcases t
 ### Outline of week-4:
 
 - PHP
+
+## Day-by-Day Progress
 
 ### Day 1: Introduction to PHP
 
