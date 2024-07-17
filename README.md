@@ -1,4 +1,5 @@
 # SummerInternship2024_22IT002
+
 4th Sem Summer Internship.
 
 welcome to my GitHub repository for the summer internship 2024! This showcases the work done during the internship.
@@ -8,7 +9,11 @@ welcome to my GitHub repository for the summer internship 2024! This showcases t
 
 ### Outline of week-1:
 
-#### Day 1: Introduction
+- HTML
+  
+- CSS
+
+### Day 1: Introduction
 
 1) Introduction to the team and company policies.
 
@@ -57,6 +62,10 @@ welcome to my GitHub repository for the summer internship 2024! This showcases t
 
 ## Week 2
 
+### Outline of week-2:
+
+- JavaScript
+
 ### Day 1: Introduction to JavaScript
 
 1) Introduction to JavaScript and its purpose in web development.
@@ -83,6 +92,10 @@ welcome to my GitHub repository for the summer internship 2024! This showcases t
 
 
 ## Week 3
+
+### Outline of week-3:
+
+- React
 
 ### Day 1: Introduction to React.js
 
@@ -124,6 +137,10 @@ welcome to my GitHub repository for the summer internship 2024! This showcases t
 
 
 ## Week 4
+
+### Outline of week-4:
+
+- PHP
 
 ### Day 1: Introduction to PHP
 
