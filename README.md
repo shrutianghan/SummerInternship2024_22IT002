@@ -3,6 +3,7 @@
 
 welcome to my GitHub repository for the summer internship 2024! This showcases the work done during the internship.
 
+
 ## Week 1
 
 ### Day 1: Introduction
@@ -50,6 +51,7 @@ welcome to my GitHub repository for the summer internship 2024! This showcases t
 1) Integrated individual components into a larger project.
 
 2) Created a template using HTML and CSS.
+   
 
 ## Week 2
 
@@ -76,6 +78,7 @@ welcome to my GitHub repository for the summer internship 2024! This showcases t
 ### Day 5: JavaScript Task
 
 1) Completed a small task based on JavaScript to solidify understanding.
+
 
 ## Week 3
 
@@ -116,6 +119,7 @@ welcome to my GitHub repository for the summer internship 2024! This showcases t
 1) Explored React Router.
 
 2) Completed tasks based on React.js to understand concepts better.
+
 
 ## Week 4
 
