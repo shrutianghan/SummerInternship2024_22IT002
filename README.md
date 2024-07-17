@@ -6,7 +6,9 @@ welcome to my GitHub repository for the summer internship 2024! This showcases t
 
 ## Week 1
 
-### Day 1: Introduction
+### Outline of week-1:
+
+#### Day 1: Introduction
 
 1) Introduction to the team and company policies.
 
