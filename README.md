@@ -13,7 +13,7 @@ welcome to my GitHub repository for the summer internship 2024! This showcases t
   
 - CSS
 
-![image](https://github.com/user-attachments/assets/dfe5ac0c-63c7-41f0-9f56-bf39e4023e73)
+![image](https://github.com/user-attachments/assets/0a6776d1-8ba0-4af8-bd8b-fc2c8ffa2074)
 
 
 ## Day-by-Day Progress
@@ -71,6 +71,9 @@ welcome to my GitHub repository for the summer internship 2024! This showcases t
 
 - JavaScript
 
+![image](https://github.com/user-attachments/assets/3c6009f1-8f6c-4aff-8fe7-45ed1f427bca)
+
+
 ## Day-by-Day Progress
 
 ### Day 1: Introduction to JavaScript
@@ -103,6 +106,9 @@ welcome to my GitHub repository for the summer internship 2024! This showcases t
 ### Outline of week-3:
 
 - React
+
+![image](https://github.com/user-attachments/assets/84a380c3-fdc0-4b66-b3bd-178be969aef2)
+
 
 ## Day-by-Day Progress
 
